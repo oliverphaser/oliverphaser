@@ -45,6 +45,5 @@ I am Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I 
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-black?style=flat-square&logo=nintendoswitch)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oliverphaser&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverphaser&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oliverphaser.oliverphaser)
