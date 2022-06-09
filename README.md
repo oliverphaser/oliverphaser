@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I'm a tech enthusiast & an open-source advocate.
+#### My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I'm a tech enthusiast & an open-source advocate.
 ##### I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-olivermohacsi-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/olivermohacsi/)](https://www.linkedin.com/in/olivermohacsi/)
