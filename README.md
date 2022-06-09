@@ -30,7 +30,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Vuetify](https://img.shields.io/badge/-Vuetify-grey?style=flat-square&logo=vuetify)](https://vuetifyjs.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)](https://www.mongodb.com)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=flat-square&logo=mariadb)](https://mariadb.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)](https://www.mysql.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql&logoColor=17728b)](https://www.mysql.com)
 [![Mapbox](https://img.shields.io/badge/-Mapbox-grey?style=flat-square&logo=mapbox)](https://www.mapbox.com)
 [![Google Maps](https://img.shields.io/badge/-Google%20Maps-grey?style=flat-square&logo=googlemaps)](https://developers.google.com/maps)
 [![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)](https://www.docker.com)
