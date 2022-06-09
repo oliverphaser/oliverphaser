@@ -17,7 +17,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![JavaScript](https://img.shields.io/badge/-JavaScript-lightgray?style=flat-square&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-lightgray?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/-Node.js-lightgray?style=flat-square&logo=Node.js)](https://nodejs.dev)
-[![AdonisJs](https://img.shields.io/badge/-AdonisJs-lightgray?style=flat-square&logo=adonisjs&logoColor=5843F8)](https://adonisjs.com)
+[![AdonisJS](https://img.shields.io/badge/-AdonisJS-lightgray?style=flat-square&logo=adonisjs&logoColor=5843F8)](https://adonisjs.com)
 [![Firebase](https://img.shields.io/badge/-Firebase-lightgray?style=flat-square&logo=firebase)](https://firebase.google.com)
 [![Python](https://img.shields.io/badge/-Python-lightgray?style=flat-square&logo=Python)](https://www.python.org)
 [![PHP](https://img.shields.io/badge/-PHP-lightgray?style=flat-square&logo=php)](https://www.php.net)
