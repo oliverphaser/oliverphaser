@@ -20,7 +20,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Firebase](https://img.shields.io/badge/-Firebase-grey?style=flat-square&logo=firebase)](https://firebase.google.com)
 [![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)](https://www.python.org)
 [![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)](https://www.php.net)
-[![C++](https://img.shields.io/badge/-C++-grey?style=flat-square&logo=cplusplus&logoColor=blue)](https://isocpp.org)
+[![C++](https://img.shields.io/badge/-C++-grey?style=flat-square&logo=cplusplus&logoColor=lightblue)](https://isocpp.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=html5&logoColor=white)](https://html.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Socket.IO](https://img.shields.io/badge/-Socket.IO-grey?style=flat-square&logo=socket.io)](https://socket.io)
