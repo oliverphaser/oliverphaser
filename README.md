@@ -9,7 +9,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Twitch Badge](https://img.shields.io/badge/-oliverphaser-lightgray?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/oliverphaser)](https://www.twitch.tv/oliverphaser)
 [![TikTok Badge](https://img.shields.io/badge/-oliverphaser-lightgray?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@oliverphaser)](https://www.tiktok.com/@oliverphaser)
 [![npm Badge](https://img.shields.io/badge/-oliverphaser-lightgray?style=flat-square&logo=npm&link=https://www.npmjs.com/~oliverphaser)](https://www.npmjs.com/~oliverphaser)
-[![SoundCloud Badge](https://img.shields.io/badge/-oliverphaser-lightgray?style=flat-square&logo=soundcloud&logoColor=white&link=https://soundcloud.com/user-36794694)](https://soundcloud.com/user-36794694)
+[![SoundCloud Badge](https://img.shields.io/badge/-oliverphaser-lightgray?style=flat-square&logo=soundcloud&link=https://soundcloud.com/user-36794694)](https://soundcloud.com/user-36794694)
 
 ## 🔮 Technologies
 
