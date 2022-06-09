@@ -68,6 +68,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Xbox](https://img.shields.io/badge/-Xbox-lightgray?style=flat-square&logo=xbox&logoColor=0E780E)](https://www.xbox.com)
 [![Playstation Vita](https://img.shields.io/badge/-PlayStation%20Vita-lightgray?style=flat-square&logo=playstationvita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 [![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-lightgray?style=flat-square&logo=nintendoswitch&logoColor=F42100)](https://www.nintendo.com/switch/)
+[![NVIDIA SHIELD](https://img.shields.io/badge/-NVIDIA%20SHIELD-lightgrey?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/shield/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oliverphaser&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
 
