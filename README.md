@@ -53,6 +53,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Webmin](https://img.shields.io/badge/-Webmin-lightgray?style=flat-square&logo=webmin)](https://www.webmin.com)
 [![Nextcloud](https://img.shields.io/badge/-Nextcloud-lightgray?style=flat-square&logo=nextcloud&logoColor=2782C9)](https://nextcloud.com)
 [![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-lightgray?style=flat-square&logo=homeassistant)](https://www.home-assistant.io)
+[![Prezi](https://img.shields.io/badge/-Prezi-lightgrey?style=flat-square&logo=prezi)](https://prezi.com)
 [![ARM](https://img.shields.io/badge/-ARM-lightgray?style=flat-square&logo=arm)](https://www.arm.com)
 [![iOS](https://img.shields.io/badge/-iOS-lightgray?style=flat-square&logo=ios)](https://www.apple.com/ios)
 [![Android](https://img.shields.io/badge/-Android-lightgray?style=flat-square&logo=android)](https://www.android.com)
