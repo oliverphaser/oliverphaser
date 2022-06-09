@@ -46,6 +46,6 @@ I am Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I 
 ![PlayStation](https://img.shields.io/badge/-PlayStation-black?style=flat-square&logo=playstation)
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-black?style=flat-square&logo=nintendoswitch)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oliverphaser&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=oliverphaser&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oliverphaser.oliverphaser)
