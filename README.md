@@ -39,7 +39,7 @@ I am Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-black?style=flat-square&logo=homeassistant)
 
-## 🎮 Gaming
+## 🎮 &nbsp;Gaming
 
 ![PlayStation](https://img.shields.io/badge/-PlayStation-black?style=flat-square&logo=playstation)
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-black?style=flat-square&logo=nintendoswitch)
