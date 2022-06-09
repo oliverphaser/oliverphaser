@@ -9,7 +9,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Twitch Badge](https://img.shields.io/badge/-oliverphaser-black?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/oliverphaser)](https://www.twitch.tv/oliverphaser)
 [![TikTok Badge](https://img.shields.io/badge/-oliverphaser-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@oliverphaser)](https://www.tiktok.com/@oliverphaser)
 
-## 🔮 &nbsp;Technologies
+## 🔮 Technologies
 
 ![NativeScript](https://img.shields.io/badge/-NativeScript-black?style=flat-square&logo=nativescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
