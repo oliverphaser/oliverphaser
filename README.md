@@ -12,7 +12,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 
 ## 🔮 Technologies
 
-[![NativeScript](https://img.shields.io/badge/-NativeScript-grey?style=flat-square&logo=nativescript)](https://www.nativescript.org)
+[![NativeScript](https://img.shields.io/badge/-NativeScript-grey?style=flat-square&logo=nativescript&logoColor=3A58F6)](https://www.nativescript.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat-square&logo=Node.js)](https://nodejs.dev)
@@ -40,7 +40,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)](https://github.com)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-grey?style=flat-square&logo=Raspberry-Pi&logoColor=b6183f)](https://www.raspberrypi.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-grey?style=flat-square&logo=arduino)](https://www.arduino.cc)
-[![Debian](https://img.shields.io/badge/-Debian-grey?style=flat-square&logo=debian)](https://www.debian.org)
+[![Debian](https://img.shields.io/badge/-Debian-grey?style=flat-square&logo=debian)](https://www.debian.org&logoColor=D11E4F)
 [![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)](https://www.linux.org)
 [![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-grey?style=flat-square&logo=homeassistant)](https://www.home-assistant.io)
 [![ARM](https://img.shields.io/badge/-ARM-grey?style=flat-square&logo=arm)](https://www.arm.com)
