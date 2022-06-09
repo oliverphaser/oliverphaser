@@ -55,7 +55,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Android](https://img.shields.io/badge/-Android-lightgray?style=flat-square&logo=android)](https://www.android.com)
 
 
-## 🎮 Gaming
+## 🎮 &nbsp;Gaming
 
 [![PlayStation](https://img.shields.io/badge/-PlayStation-lightgray?style=flat-square&logo=playstation)](https://playstation.com)
 [![Xbox](https://img.shields.io/badge/-Xbox-lightgray?style=flat-square&logo=xbox&logoColor=0E780E)](https://www.xbox.com)
