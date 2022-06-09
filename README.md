@@ -37,8 +37,9 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-black?style=flat-square&logo=homeassistant)
 
 ## 🎮 &nbsp;Gaming
