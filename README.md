@@ -12,10 +12,10 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 
 ## 🔮 Technologies
 
-[![NativeScript](https://img.shields.io/badge/-NativeScript-black?style=flat-square&logo=nativescript&link=https://www.npmjs.com/~oliverphaser)](https://www.nativescript.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.nativescript.org)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+[![NativeScript](https://img.shields.io/badge/-NativeScript-black?style=flat-square&logo=nativescript)](https://www.nativescript.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.dev)
 ![AdonisJs](https://img.shields.io/badge/-AdonisJs-black?style=flat-square&logo=adonisjs)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
