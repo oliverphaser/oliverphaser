@@ -42,7 +42,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-black?style=flat-square&logo=homeassistant)
-![Arm](https://img.shields.io/badge/-Arm-black?style=flat-square&logo=arm)
+![ARM](https://img.shields.io/badge/-ARM-black?style=flat-square&logo=arm)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 
