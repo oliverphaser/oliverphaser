@@ -44,6 +44,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![WebStorm](https://img.shields.io/badge/-WebStorm-lightgray?style=flat-square&logo=webstorm&logoColor=06B1F4)](https://www.jetbrains.com/webstorm/)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-lightgrey?style=flat-square&logo=sublimetext)](https://www.sublimetext.com)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightgrey?style=flat-square&logo=visualstudiocode&logoColor=39A3EC)](https://code.visualstudio.com)
+[![Postman](https://img.shields.io/badge/-Postman-lightgrey?style=flat-square&logo=postman)](https://www.postman.com)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-lightgray?style=flat-square&logo=Raspberry-Pi&logoColor=b6183f)](https://www.raspberrypi.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-lightgray?style=flat-square&logo=arduino)](https://www.arduino.cc)
 [![Debian](https://img.shields.io/badge/-Debian-lightgray?style=flat-square&logo=debian&logoColor=D11E4F)](https://www.debian.org)
