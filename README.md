@@ -2,10 +2,10 @@
 
 I am Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivermohacsi/)](https://www.linkedin.com/in/olivermohacsi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oliverphaser/)](https://instagram.com/oliverphaser)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/oliverphaser)](https://www.youtube.com/c/oliverphaser)
-[![Twitter Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/oliverphaser)](https://www.twitter.com/oliverphaser)
+[![Linkedin Badge](https://img.shields.io/badge/-olivermohacsi-lightblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivermohacsi/)](https://www.linkedin.com/in/olivermohacsi/)
+[![Instagram Badge](https://img.shields.io/badge/-oliverphaser-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oliverphaser/)](https://instagram.com/oliverphaser)
+[![Youtube Badge](https://img.shields.io/badge/-oliverphaser-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/oliverphaser)](https://www.youtube.com/c/oliverphaser)
+[![Twitter Badge](https://img.shields.io/badge/-oliverphaser-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/oliverphaser)](https://www.twitter.com/oliverphaser)
 
 ## ⚡ Technologies
 
