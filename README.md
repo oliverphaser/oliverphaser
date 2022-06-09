@@ -26,7 +26,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![C++](https://img.shields.io/badge/-C++-lightgray?style=flat-square&logo=cplusplus&logoColor=lightblue)](https://isocpp.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-lightgray?style=flat-square&logo=html5&logoColor=orange)](https://html.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-lightgray?style=flat-square&logo=css3&logoColor=2f61ea)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Sass](https://img.shields.io/badge/-Sass-lightgray?style=flat-square&logo=sass)](https://www.sass-lang.com)
+[![Sass](https://img.shields.io/badge/-Sass-lightgray?style=flat-square&logo=sass)](https://sass-lang.com)
 [![Socket.IO](https://img.shields.io/badge/-Socket.IO-lightgray?style=flat-square&logo=socket.io)](https://socket.io)
 [![Three.js](https://img.shields.io/badge/-Three.js-lightgray?style=flat-square&logo=three.js)](https://threejs.org)
 [![Express](https://img.shields.io/badge/-Express-lightgray?style=flat-square&logo=express)](https://expressjs.com)
