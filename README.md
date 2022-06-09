@@ -12,7 +12,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 
 ## 🔮 Technologies
 
-![NativeScript](https://img.shields.io/badge/-NativeScript-black?style=flat-square&logo=nativescript)
+![NativeScript](https://img.shields.io/badge/-NativeScript-black?style=flat-square&logo=nativescript&link=https://www.npmjs.com/~oliverphaser)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
