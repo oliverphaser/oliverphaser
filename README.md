@@ -42,7 +42,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Arduino](https://img.shields.io/badge/-Arduino-lightgray?style=flat-square&logo=arduino)](https://www.arduino.cc)
 [![Debian](https://img.shields.io/badge/-Debian-lightgray?style=flat-square&logo=debian&logoColor=D11E4F)](https://www.debian.org)
 [![Linux](https://img.shields.io/badge/-Linux-lightgray?style=flat-square&logo=linux)](https://www.linux.org)
-[![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-grey?style=flat-square&logo=homeassistant)](https://www.home-assistant.io)
+[![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-lightgray?style=flat-square&logo=homeassistant)](https://www.home-assistant.io)
 [![ARM](https://img.shields.io/badge/-ARM-lightgray?style=flat-square&logo=arm)](https://www.arm.com)
 [![iOS](https://img.shields.io/badge/-iOS-lightgray?style=flat-square&logo=ios)](https://www.apple.com/ios)
 [![Android](https://img.shields.io/badge/-Android-lightgray?style=flat-square&logo=android)](https://www.android.com)
