@@ -2,7 +2,7 @@
 
 My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 1995. I'm a tech enthusiast & an open-source advocate. I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-olivermohacsi-grey?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/olivermohacsi/)](https://www.linkedin.com/in/olivermohacsi/)
+[![Linkedin Badge](https://img.shields.io/badge/-olivermohacsi-lightgray?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/olivermohacsi/)](https://www.linkedin.com/in/olivermohacsi/)
 [![Twitter Badge](https://img.shields.io/badge/-oliverphaser-grey?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/oliverphaser)](https://www.twitter.com/oliverphaser)
 [![Instagram Badge](https://img.shields.io/badge/-oliverphaser-grey?style=flat-square&logo=instagram&logoColor=red&link=https://instagram.com/oliverphaser/)](https://instagram.com/oliverphaser)
 [![Youtube Badge](https://img.shields.io/badge/-oliverphaser-grey?style=flat-square&logo=youtube&logoColor=darkred&link=https://www.youtube.com/c/oliverphaser)](https://www.youtube.com/c/oliverphaser)
