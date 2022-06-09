@@ -40,7 +40,7 @@ My name is Olivér Mohácsi, the web knows me as PHASER. I'm on the net since 19
 [![Mapbox](https://img.shields.io/badge/-Mapbox-lightgray?style=flat-square&logo=mapbox&logoColor=4061F4)](https://www.mapbox.com)
 [![Google Maps](https://img.shields.io/badge/-Google%20Maps-lightgray?style=flat-square&logo=googlemaps&logoColor=32A351)](https://developers.google.com/maps)
 [![Docker](https://img.shields.io/badge/-Docker-lightgray?style=flat-square&logo=docker)](https://www.docker.com)
-[![WMware](https://img.shields.io/badge/-WMware-lightgray?style=flat-square&logo=wmware)](https://www.wmware.com)
+[![WMware](https://img.shields.io/badge/-WMware-lightgrey?style=flat-square&logo=vmware)](https://www.wmware.com)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-lightgray?style=flat-square&logo=rabbitmq)](https://www.rabbitmq.com)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-lightgray?style=flat-square&logo=google-cloud)](https://cloud.google.com)
 [![Git](https://img.shields.io/badge/-Git-lightgray?style=flat-square&logo=git)](https://git-scm.com)
